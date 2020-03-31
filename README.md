@@ -1,5 +1,7 @@
 # FIFA'19 DATA ANALYSIS
 
+## Link to my blogpost is [here](https://medium.com/@itsmohit.kr95/data-analysis-of-fifa-2019-f99d64b44e58).
+
 ### Table of Contents
 
 1. [Installation](#installation)
